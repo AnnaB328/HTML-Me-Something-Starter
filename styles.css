@@ -1,1 +1,46 @@
-/* Write your CSS here! */
+body {
+    background-color: antiquewhite;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    text-align: center;
+    color: red;
+}
+
+#testP{
+    text-align: center;
+}
+
+.funParagraph{
+    color: green;
+}
+
+section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+figure {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+    
+}
+
+img {
+    border-style: double;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
